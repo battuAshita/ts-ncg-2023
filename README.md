@@ -19,6 +19,6 @@ Start the server
 ```
 npm start
 ```
-Navigate to /views/all in http://localhost:8080 to open the main page.
+Navigate to in http://localhost:8080/views/all to open the main page.
 
 
