@@ -4,6 +4,8 @@
 git clone https://github.com/battuAshita/ts-ncg-2023.git
 ``` 
 ## Running the backend server
+Make sure you have postgresql installed locally. Connect pgAdmin 4 to the PostgreSQL Server and create a table views. 
+
 Open a new terminal and navigate to the folder 'backend'.
 ```
 cd backend
