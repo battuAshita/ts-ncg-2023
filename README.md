@@ -10,7 +10,7 @@ cd backend
 ```
 Now, run the BackendApplication.java file in your IntelliJ IDE
 
-### Running the project on your local machine
+## Running the project on your local machine
 Open a new terminal and navigate to the folder 'frontend'.
 ```
 cd frontend
